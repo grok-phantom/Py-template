@@ -10,6 +10,7 @@ Welcome to Py Template's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   readme
 
    py_template
 
